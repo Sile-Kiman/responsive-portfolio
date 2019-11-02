@@ -1,28 +1,37 @@
 # responsive-portfolio
-
-Title: My Portfolio
+ 
+Title: Random Password
 
 Usage/Description:
-This site is about me portfolio to introduce myself to anyone who is looking/reading this page.
-It gives you information about my personal, educational  and professional background.
+This assignement  is to generate a random password when user clicks on generate button. 
+
+How does this work:
+1- When  you land on the page, onPageLoad user is prompted to answaser some questions to help determine the scope of the password rule. 
+
+2- after the questions are successfully answered user has to click on the generate button  to generate the random password. 
+
+3- Then  when user cliks on Copy to clipboard button the random password will be selected and then copy.  
 
 Tool used to build my portfolio site.
 1-	Html 
 2-	CSS 
 3-  Bootstrap
-3-	The Portfolio_Bootstrap folder should have all my html, personalized css, Bootstap css and images I have used to create this project.  
+3-	JavaScript 
 
 Credit:
 I used the following sites for my  research  during this assignment:
 1-google.com
-2- https://www.w3schools.com/, stackoverflow.com, bootstrap.com   
+2- https://www.w3schools.com/, stackoverflow.com, bootstrap.com, youtube.    
 3-Classmates
 4-TA’s and the instructor 
 
 Test:
-1 -Verify the page’s  look and feel matches the wireframe provided for this assignment 
-2- Check the other spec such as the main content section matches the required width. 
-3-Verify that About, Contact and Portfolio  links should take user to the corresponding pages as expected. 
+1 -Verify the page’s  look and feel matches the wireframe provided for this assignment- (this maybe slightly different) 
+2- Check the other spec such as when you clicks on each button the appropriate actions are performed. 
+3-Verify the Min and max character validation is in place. 
+
+Image of the Site:
+<img scr= "random.PNG">
 
 License:
 MIT License
