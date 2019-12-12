@@ -5,11 +5,13 @@ body{
     
   
 }
-
+ 
 #heading{
     font-family:  'Georgia', Times, 'Times New Roman', 'serif';
     background:#ffffff;
 }
+
+ 
 
 .main-header{
     background: #4aaaa5;
@@ -21,6 +23,8 @@ body{
     margin-bottom: 0px;
     color: white;
     border-radius: 3px;
+    border: solid 1px #4aaaa5 ;
+    border-radius: 20px;
     
 }
 
@@ -42,7 +46,7 @@ body{
     border: 2px solid #dddddd;
     padding-bottom: 15px;
 }
-
+ 
 .main{
     clear: both;
     border: 1px  #dddddd;
@@ -53,7 +57,8 @@ body{
     margin-top: 30px;
     margin-bottom: 30px;
     box-sizing: border-box;
-
+    border: solid 3px #4aaaa5 ;
+    border-radius: 10px;
 }
 #sub_text{
     color: #4aaaa5;

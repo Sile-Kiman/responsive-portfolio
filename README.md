@@ -1,16 +1,12 @@
 # responsive-portfolio
- 
-Title: Random Password
 
-Usage/Description:
-This assignement  is to generate a random password when user clicks on generate button. 
+Title: My Portfolio
 
-How does this work:
-1- When  you land on the page, onPageLoad user is prompted to answaser some questions to help determine the scope of the password rule. 
+Usage/Description: This site is about_me portfolio to introduce myself to anyone who is looking/reading this page. It gives you information about my personal, educational and professional background.
 
-2- after the questions are successfully answered user has to click on the generate button  to generate the random password. 
+Deploy Link:
+https://sile-kiman.github.io/responsive-portfolio/portfolio-pages/index.html
 
-3- Then  when user cliks on Copy to clipboard button the random password will be selected and then copy.  
 
 Tool used to build my portfolio site.
 1-	Html 
@@ -26,12 +22,17 @@ I used the following sites for my  research  during this assignment:
 4-TA’s and the instructor 
 
 Test:
-1 -Verify the page’s  look and feel matches the wireframe provided for this assignment- (this maybe slightly different) 
-2- Check the other spec such as when you clicks on each button the appropriate actions are performed. 
-3-Verify the Min and max character validation is in place. 
+ 1 -Verify the page’s look and feel matches the wireframe provided for this assignment 
+ 2- Check the other spec such as the main content section matches the required width. 
+ 3-Verify that About, Contact and Portfolio, GitHub, LinkedIn and Resume links   take user to the corresponding pages as expected.
+ 4 -Verify the page’s  look and feel matches the wireframe provided for this assignment- (this maybe slightly different) 
+ 5- Check the other spec such as when you clicks on each button the appropriate actions are performed. 
 
 Image of the Site:
-<img scr= "random.PNG">
+
+<img scr= "responsive-portfolio/assets/images/about.PNG">
+<img scr= "responsive-portfolio/assets/images/portfolio.PNG">
+<img scr= "responsive-portfolio/assets/images/contact.PNG">
 
 License:
 MIT License

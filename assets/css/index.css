@@ -6,6 +6,15 @@ body{
    
   
 }
+#plink_wrapper{
+ margin: auto;
+ padding-bottom: 20px;
+ color:#4aaaa5;
+}
+
+
+
+
 
 #heading{
     font-family:  'Georgia', Times, 'Times New Roman', 'serif';
@@ -23,6 +32,9 @@ body{
     margin-bottom: 0px;
     color: white;
     border-radius: 3px;
+     
+    border: solid 1px #4aaaa5 ;
+    border-radius: 20px;
     
 }
 
@@ -58,6 +70,9 @@ body{
     margin-top: 30px;
     margin-bottom: 30px;
     box-sizing: border-box;
+    
+    border: solid 3px #4aaaa5 ;
+    border-radius: 30px;
 }
 
 
@@ -80,7 +95,7 @@ body{
     width: 250px;
     float: left; 
     padding-right:30px; 
-    /* margin-top: 10px; */
+   
     padding-top: 10px; 
 }
 
@@ -94,7 +109,7 @@ p{
     font-weight: 40px;
     color: #777777;
     line-height: 170%;
-    /* margin-top: 10px; */
+    
     padding-top: 10px;
     padding-left: 0px;
 }

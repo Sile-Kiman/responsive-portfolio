@@ -12,6 +12,7 @@ body{
     background:#ffffff;
 }
 
+ 
 .main-header{
     background: #4aaaa5;
     border: 1px solid #cccccc;
@@ -22,8 +23,12 @@ body{
     margin-bottom: 0px;
     color: white;
     border-radius: 3px;
+    border: solid 1px #4aaaa5 ;
+    border-radius: 20px;
     
 }
+
+
 
 
 #link_wrapper{
@@ -43,6 +48,8 @@ body{
      
 }
 
+ 
+
 .main{
     clear: both;
     border: 1px  #dddddd;
@@ -53,6 +60,9 @@ body{
     margin-top: 30px;
     margin-bottom: 30px;
     box-sizing: border-box;
+    
+    border: solid 3px #4aaaa5 ;
+    border-radius: 30px;
 }
 
 #sub_text{
